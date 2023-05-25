@@ -8,22 +8,22 @@ const SlotBooking = () => {
                 <div className="flex gap-5">
                     <div className="w-[530px] h-[300px] flex flex-col items-center justify-center gap-10">
                         <div className="flex gap-5 items-center">
-                            <img className="w-24 h-24" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFk2Kjxm_6dO_QCqLDMJBB6rU4yuPgDQaEAIZB0cP-SyACFU6V7KCta5oT3aFNEqPmiI&usqp=CAU" />
+                            <img className="w-24 h-24" src="https://psychiatry.ufl.edu/wordpress/files/2021/08/lactation-processed.png" />
                             <div className="text-center">
                                 <h2 className="font-bold text-xl">10,000+</h2>
                                 <h2 className=" text-xl">Happy Mothers & Newborn</h2>
                             </div>
                         </div>
                         <div className="flex gap-5 items-center">
-                            <img className="w-24 h-24" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFk2Kjxm_6dO_QCqLDMJBB6rU4yuPgDQaEAIZB0cP-SyACFU6V7KCta5oT3aFNEqPmiI&usqp=CAU" />
+                            <img className="w-24 h-24" src="https://www.orangetreescreening.com/hubfs/2023%20Website/doctor%20icon1.svg" />
                             <div className="text-center">
-                                <h2 className="font-bold text-xl text-[#000000C2]">10,000+</h2>
-                                <h2 className=" text-xl text-[#000000C2]">Happy Mothers & Newborn</h2>
+                                <h2 className="font-bold text-xl text-[#000000C2]">18+</h2>
+                                <h2 className=" text-xl text-[#000000C2] w-60">Years Serving Mothers & Their Babies</h2>
                             </div>
                         </div>
                     </div>
                     <div className="w-[580px] h-[340px] z-10 border-4 border-[#ff8630] ">
-                        <iframe className="w-full h-full" src="https://www.youtube.com/embed/4jzB_JZ9WKM" title="Bundle Of Joy Delivered At Altius Hospitals Bangalore | All OK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                        <iframe className="w-full h-full" src="https://www.youtube.com/embed/g48hS4LGtSY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                     </div>
                 </div>
                 <h2 className="text-[#ff8630] font-sans text-4xl  font-semibold text-center my-5">IVF Treatment At An Affordable Cost</h2>

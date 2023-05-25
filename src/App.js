@@ -13,6 +13,10 @@ import IVFWork from "./components/IVFWork";
 import About from "./components/About";
 import Doctors from "./components/Doctors";
 import Story from "./components/Story";
+import Maps from "./components/Maps";
+import Enquiry from "./components/Enquiry";
+import Contact from "./components/Contact";
+import Footer from "./components/Footer"
 
 
 const App = () => {
@@ -30,6 +34,10 @@ const App = () => {
             <About />
             <Doctors />
             <Story />
+            <Maps />
+            <Enquiry />
+            <Contact />
+            <Footer />
         </>
     )
 }

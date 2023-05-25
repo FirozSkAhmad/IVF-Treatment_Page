@@ -1,7 +1,12 @@
+import bgImg from '../../utils/images/mom-baby.jpg'
+
+
 
 const GetInTouch = () => {
     return (
-        <div className="h-96 bg-gray-500 flex justify-center items-center gap-5">
+        <div className="h-96 flex justify-center items-center gap-5 relative">
+            <div className="bg-[#131f48ba] bg-cover w-full absolute h-full -z-10"></div>
+            <img className='absolute -z-20 w-full h-full' src={bgImg} />
             <div className="w-5/12 flex flex-col gap-5">
                 <h2 className="text-4xl text-white font-sans font-bold">Bangalore's Most Trusted Fertility Hospital.</h2>
                 <p className="text-lg text-white font-sans mb-3">Providing World-class Treatments With 1,00,000+ Successful Procedures Making Your Dream of Parenthood a Reality.</p>
